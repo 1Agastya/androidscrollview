@@ -8,6 +8,7 @@ As The Scrolling term are been 1971
  it was being used in the sense 'to move displayed material upwards by scrolling'
  
 ******************** This project has been develop with java in Android studio***********
+Also , I have build the apk . As name in the file  "app-debug.apk"
 
 
  
